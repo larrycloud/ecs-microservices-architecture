@@ -61,7 +61,7 @@ Este repositorio tiene fines demostrativos para:
 ✨ Autor
 
 Larry Rondán – Cloud & DevOps Engineer
-🌐 Portafolio: https://devopscloud.click
-🐙 GitHub: https://github.com/larrycloud
+- 🌐 Portafolio: https://devopscloud.click
+- 🐙 GitHub: https://github.com/larrycloud
 
-
+---
