@@ -245,7 +245,7 @@ AWS · ECS · EC2 · Docker · ECR · ALB · Auto Scaling · CloudWatch · Route
 **Larry Andrés Rondán Manrique**  
 ☁️ *Cloud & DevOps Engineer*  
 
-📬 Email: larrycloudaws@gmail.com  
+📬 Email: larry.rondan@devopscloud.click  
 🐙 GitHub: https://github.com/larrycloud  
 🌍 Portafolio: https://devopscloud.click  
 
